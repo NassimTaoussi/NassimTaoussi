@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=PHP&textfill=4682B4&fill=000000)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Symfony&fill=000000)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Webpack&textfill=87CEFA&fill=000000)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Javascript&textfill=FFD700&fill=000000)
