@@ -1,7 +1,7 @@
 Hello you 👋
 
-My name is Nassim, i'm a web developer for 2 years since 2020.
-I'm currently studying in OpenClassrooms on the PHP/Symfony course. 🎓 
+💻 My name is Nassim, i'm a web developer for 2 years since 2020.
+🎓 I'm currently studying in OpenClassrooms on the PHP/Symfony course. 
 
 <!--
 **NassimTaoussi/NassimTaoussi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
