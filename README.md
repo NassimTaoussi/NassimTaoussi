@@ -1,6 +1,6 @@
 Hello you 👋
 
-My name is Nassim, i'm a PHP/Symfony developer for 2 years since 2020.
+My name is Nassim, i'm a web developer for 2 years since 2020.
 I'm currently studying in OpenClassrooms on the PHP/Symfony course. 🎓 
 
 <!--
