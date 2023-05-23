@@ -1,4 +1,6 @@
-### Hi there 👋
+Hello you 👋
+
+My name is Nassim, i'm a PHP/Symfony developer for 2 years since 2020.
 
 <!--
 **NassimTaoussi/NassimTaoussi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
