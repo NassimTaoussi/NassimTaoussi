@@ -2,8 +2,8 @@
 ------------------------------------------------------------------------------------------------------------------------------------
 Hello you 👋
 
-- 💻 My name is Nassim, i'm a web developer for 2 years since 2020.
-- 🎓 I'm currently studying in OpenClassrooms on the PHP/Symfony course. 
+- 💻 My name is Nassim, i'm a web developer for 3 years since 2020.
+- 🎓 I'm graduated from the PHP/Symfony course in OpenClassrooms. 
 
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=PHP&textfill=4682B4&fill=000000)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Symfony&fill=000000)
